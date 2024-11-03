@@ -1,12 +1,6 @@
 # rocketleague-ai-coach
 
-Here’s an outline of the testing stage and the planned stages, formatted for your GitHub README. This will provide a structured overview of the development process and link relevant resources.
-
----
-
-## Rocket League AI Coach
-
-An AI-powered plugin for Rocket League, using local large language models (LLMs) to offer real-time, strategic coaching feedback based on in-game data.
+An AI-powered bakkesmod plugin for Rocket League, using local large language models (LLMs) to offer real-time, strategic coaching feedback based on in-game data.
 
 ### Overview
 
